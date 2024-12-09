@@ -91,4 +91,12 @@ The model achieves:
 
 82% accuracy on the test set
 Effective style differentiation between two distinct authors
-Robust performance without complex deep learning approaches
+Robust performance without complex deep-learning approaches
+
+## Authors
+
+Yuri Lazzeretti
+
+ylazz001@gmail.com
+
+www.linkedin.com/in/yuri-lazzeretti-b63a22220
